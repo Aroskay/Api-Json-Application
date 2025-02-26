@@ -2,7 +2,7 @@
 //  CurrencyConverterTests.swift
 //  CurrencyConverterTests
 //
-//  Created by Ceren Can on 29.12.2024.
+//  Created by Ufuk Aroskay on 29.12.2024.
 //  Copyright © 2024 Aroskay. All rights reserved.
 //
 
